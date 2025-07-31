@@ -5,7 +5,7 @@ import pickle
 
 
 # Load the trained model
-with open("Diamod.pkl", "rb" )as file:
+with open("diamod.pkl", "rb" )as file:
     model = pickle.load(file)
 
 st.title("Health Data Entry Form 🏥📊✨")
