@@ -9,11 +9,10 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Latest-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/Diabetes-Prediction-Dataset?style=social)](https://github.com/YourUsername/Diabetes-Prediction-Dataset/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/Diabetes-Prediction-Dataset?style=social)](https://github.com/YourUsername/Diabetes-Prediction-Dataset/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/Diabetes-Prediction-Dataset?style=social)](https://github.com/YourUsername/Diabetes-Prediction-Dataset/issues)
+[![GitHub stars](https://img.shields.io/github/stars/VasanthPrakasam/Diabetes_Prediction?style=social)](https://github.com/VasanthPrakasam/Diabetes_Prediction/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/VasanthPrakasam/Diabetes_Prediction?style=social)](https://github.com/VasanthPrakasam/Diabetes_Prediction/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/VasanthPrakasam/Diabetes_Prediction?style=social)](https://github.com/VasanthPrakasam/Diabetes_Prediction/issues)
 
 </div>
 
@@ -66,8 +65,8 @@ This project focuses on building a comprehensive machine learning pipeline to pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Diabetes-Prediction-Dataset.git
-cd Diabetes-Prediction-Dataset
+git clone https://github.com/VasanthPrakasam/Diabetes_Prediction.git
+cd Diabetes_Prediction
 
 # Create virtual environment
 python -m venv diabetes_env
@@ -359,7 +358,7 @@ Based on our Decision Tree analysis:
 ## 📁 **Project Structure**
 
 ```
-Diabetes-Prediction-Dataset/
+Diabetes-Prediction/
 ├── 📄 README.md
 ├── 📊 diabetes_dataset.csv
 ├── 📓 Diabetes_Prediction_Analysis.ipynb
@@ -478,7 +477,7 @@ We welcome contributions to improve this diabetes prediction project!
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/YourUsername/Diabetes-Prediction-Dataset.git
+   git clone https://github.com/VasanthPrakasam/Diabetes_Prediction.git
    ```
 
 2. **Create a Feature Branch**
@@ -537,13 +536,13 @@ We welcome contributions to improve this diabetes prediction project!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-VasanthPrakasam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasanthprakasam)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthprakasam@example.com)
 
 ### 🆘 **Get Help**
-- 📝 [Open an Issue](https://github.com/YourUsername/Diabetes-Prediction-Dataset/issues)
-- 💬 [Start a Discussion](https://github.com/YourUsername/Diabetes-Prediction-Dataset/discussions)
+- 📝 [Open an Issue](https://github.com/VasanthPrakasam/Diabetes_Prediction/issues)
+- 💬 [Start a Discussion](https://github.com/VasanthPrakasam/Diabetes_Prediction/discussions)
 - 📧 Email for research collaboration opportunities
 
 </div>
@@ -557,14 +556,14 @@ We welcome contributions to improve this diabetes prediction project!
 - **🤖 ML Community**: Open-source contributors and healthcare AI researchers
 - **📚 WHO & ADA**: World Health Organization and American Diabetes Association for clinical guidelines
 - **🔬 Research Literature**: Diabetes prediction and machine learning research papers
-  
+
 ---
 
 ## ⭐ **Star History**
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YourUsername/Diabetes-Prediction-Dataset&type=Date)](https://star-history.com/#YourUsername/Diabetes-Prediction-Dataset&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=VasanthPrakasam/Diabetes_Prediction&type=Date)](https://star-history.com/#VasanthPrakasam/Diabetes_Prediction&Date)
 
 </div>
 
@@ -576,6 +575,6 @@ We welcome contributions to improve this diabetes prediction project!
 
 **🍯 Made with passion for advancing diabetes care through AI**
 
-*© 2025 [Your Name]. Predicting diabetes risks to improve global health outcomes.*
+*© 2025 Vasanth Prakasam. Predicting diabetes risks to improve global health outcomes.*
 
 </div>
